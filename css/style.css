@@ -180,14 +180,12 @@ footer nav{
 #boxes p{
   font-size: 15px;
 }
+
 /* Sidebar for About page */
 aside#sidebar{
   float: left;
   width: 40%;
-  margin-top:10px;
-  background: url('../img/tay.JPG') no-repeat;
-  background-position: center;
-  background-size: cover;
+  margin-top:20px;
   padding-right: 5px;
 }
 
@@ -207,4 +205,6 @@ aside#sidebar_2{
 article#main-col{
   float: right;
   width: 55%;
+  font-size: 18px;
+  margin-top:20px;
 }
